@@ -1,4 +1,4 @@
-# Gym Bull - веб-приложение фитнес услуг
+# Gym Bull / веб-приложение фитнес услуг
 
 ![Image alt](https://github.com/Webfre/words-play/blob/main/src/assets/words.png)
 
@@ -6,9 +6,9 @@
 
 Проект реализован на React и TypeScript.
 
-## Preview
+## Предварительный просмотр
 
-<a href="https://webfre.github.io/words-play/" target="_blank">Перейти для просмотра 👁</a>
+<a href="https://webfre.github.io/gym/" target="_blank">Перейти для просмотра 👁</a>
 
 ## Технологии
 
@@ -34,7 +34,7 @@
 Для того, чтобы установить проект локально, Вам потребуется:
 
 ```sh
-git clone
+git clone https://github.com/Webfre/gym.git
 ```
 
 Start the project:
