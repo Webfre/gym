@@ -1,6 +1,6 @@
 # Gym Bull / веб-приложение фитнес услуг
 
-![Image alt](https://github.com/Webfre/words-play/blob/main/src/assets/words.png)
+![Image alt](https://github.com/Webfre/gym/blob/main/src/assets/gymbull.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webfre&label=Profile%20views&color=0e75b6&style=flat" alt="webfre" /> </p>
 
