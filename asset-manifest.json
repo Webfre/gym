@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/gym/static/css/main.c7aef709.css",
+    "main.js": "/gym/static/js/main.580d6476.js",
+    "static/media/HomePageGraphic.png": "/gym/static/media/HomePageGraphic.0e4a4d3d82a96cf29885.png",
+    "static/media/image1.png": "/gym/static/media/image1.63f00d8c5649b578d171.png",
+    "static/media/image4.png": "/gym/static/media/image4.3a78b95fced01a415623.png",
+    "static/media/image3.png": "/gym/static/media/image3.aa4462ad40e975470c0d.png",
+    "static/media/image6.png": "/gym/static/media/image6.53534076261c257b4bb4.png",
+    "static/media/image5.png": "/gym/static/media/image5.0f3fa2d8e38faada116c.png",
+    "static/media/image2.png": "/gym/static/media/image2.9d781a981e198aa72ffe.png",
+    "static/media/ContactUsPageGraphic.png": "/gym/static/media/ContactUsPageGraphic.cb6b05e82d856d0e1f22.png",
+    "static/media/BenefitsPageGraphic.png": "/gym/static/media/BenefitsPageGraphic.eb56e2d83e1e2e3023a1.png",
+    "static/media/Logo.png": "/gym/static/media/Logo.dcb53042b993b29fc128.png",
+    "static/media/HomePageText.png": "/gym/static/media/HomePageText.d13a9a6855d9d626d5ce.png",
+    "index.html": "/gym/index.html",
+    "main.c7aef709.css.map": "/gym/static/css/main.c7aef709.css.map",
+    "main.580d6476.js.map": "/gym/static/js/main.580d6476.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7aef709.css",
+    "static/js/main.580d6476.js"
+  ]
+}
